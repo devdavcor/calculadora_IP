@@ -1,2 +1,2 @@
 # calculadora_IP
-Proyecto para calcular las subredes a partir de una dirección IP.
+Proyecto para calcular las direcciones IP de las subredes de una red.
